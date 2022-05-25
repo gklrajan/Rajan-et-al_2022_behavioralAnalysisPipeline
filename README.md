@@ -1,4 +1,4 @@
-# Rajan-et-al_2022_behavioralAnalysisPiperline
+# Rajan-et-al_2022_behavioralAnalysisPipeline
 
 DC_CurvatureBased_HBT.m and ZF_CurvatureBased_HBT.m are used for the analysis of the short-term swimming kinematics of Danionella and zebrafish, respectively.
 
